@@ -1,0 +1,8 @@
+*.meta
+WorldBook/Library/
+WorldBook/Logs/
+WorldBook/Packages/manifest.json
+WorldBook/ProjectSettings/
+WorldBook/Temp/
+WorldBook/Assets/Scenes/SampleScene.unity
+WorldBook/WorldBook.sln
