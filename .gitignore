@@ -6,3 +6,6 @@ WorldBook/ProjectSettings/
 WorldBook/Temp/
 WorldBook/Assets/Scenes/SampleScene.unity
 WorldBook/WorldBook.sln
+WorldBook/obj/
+WorldBook/.vs/
+WorldBook/Assembly-CSharp.csproj
